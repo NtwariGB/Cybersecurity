@@ -1,6 +1,6 @@
-Projet : Détection de mots clés sensibles avec YARA en Python
+# Projet : Détection de mots clés sensibles avec YARA en Python
 
-Description :
+## Description :
 Ce petit projet consiste à utiliser la bibliothèque YARA en Python pour détecter des mots clés sensibles dans un fichier texte. Il utilise des règles YARA personnalisées pour spécifier les motifs à rechercher dans le fichier. Le projet permet de charger ces règles, d'analyser un fichier texte donné et de détecter les correspondances avec les motifs définis. Il affiche ensuite les correspondances trouvées.
 
 Fonctionnalités du projet :
@@ -8,7 +8,7 @@ Fonctionnalités du projet :
 - Analyse d'un fichier texte pour détecter les correspondances
 - Affichage des correspondances trouvées
 
-Documentation :
+## Documentation :
 
 1. Installation des dépendances :
    - YARA : La bibliothèque YARA doit être installée sur le système. 
